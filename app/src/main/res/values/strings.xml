@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Tugas-Akhir</string>
+    <string name="logo_text">Chrome.inc</string>
+    <string name="sign_in_to_continue">Login untuk melanjutkan</string>
+    <string name="enter_your_password">Isikan password anda</string>
+    <string name="forgot_password">Lupa Password ?</string>
 </resources>
