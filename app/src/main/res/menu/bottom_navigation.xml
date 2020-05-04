@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/nav_barang_masuk"
+        android:icon="@drawable/ic_play_for_work_black_24dp"
+        android:title="Barang Masuk"/>
+
+    <item
+        android:id="@+id/nav_request_inventory"
+        android:icon="@drawable/ic_present_to_all_black_24dp"
+        android:title="Request Inventory"/>
+
+</menu>
